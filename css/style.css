@@ -1,0 +1,15 @@
+div {
+    background-color: aqua;
+    border: 1px solid green;
+}
+
+body {
+    background-color: greenyellow;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+input {
+    background-color: blue;
+    border: 1px solid red;
+}
